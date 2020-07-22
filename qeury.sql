@@ -6,6 +6,7 @@ from movie;
 select movie_year
 from movie
 where movie_title = 'american Beauty';
+dhgdhds
 
 #3
 select movie_title
